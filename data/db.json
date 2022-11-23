@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "Ninja UX Designer",
+      "id": 1,
+      "details": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design (UI design); authoring, including standardised code and proprietary software; user experience design (UX design); and search engine optimization."
+    },
+    {
+      "title": "Ninja Web Developer",
+      "id": 2,
+      "details": "A web developer is a programmer who develops World Wide Web applications using a client–server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET (C#), Python, Node.js, Go or Java in the server, and http for communications between client and server. A web developer may specialize in client-side applications (front-end developer), server-side applications (back-end developer), or both (full-stack developer)."
+    },
+    {
+      "title": "Ninja Vue Developer",
+      "id": 3,
+      "details": "Vue.js (commonly referred to as Vue; pronounced  is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.[10] It was created by Evan You, and is maintained by him and the rest of the active core team members.[11]"
+    }
+  ]
+}
