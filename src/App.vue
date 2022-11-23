@@ -1,19 +1,27 @@
 <!-- @format -->
 
 <template>
+  <Translate />
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link :to="{ name: 'About' }">About</router-link>
-    <router-link :to="{ name: 'Jobs' }">Jobs</router-link>
+    <router-link to="/">{{ $t("btn.home") }}</router-link> |
+    <router-link :to="{ name: 'About' }">{{ $t("btn.about") }}</router-link>
+    <router-link :to="{ name: 'Jobs' }">{{ $t("btn.jobs") }}</router-link>
   </nav>
-  <button @click="redirect">Redirect</button>
-  <button @click="back">Go Back</button>
-  <button @click="forward">Forward</button>
+  <button @click="redirect">{{ $t("btn.redirect") }}</button>
+  <button @click="back">{{ $t("btn.goback") }}</button>
+  <button @click="forward">{{ $t("btn.forward") }}</button>
   <router-view />
 </template>
 
 <script>
+import Translate from "./components/Translate.vue";
+
 export default {
+  name: "App",
+  components: {
+    Translate,
+  },
+
   methods: {
     redirect() {
       this.$router.push({ name: "Home" });

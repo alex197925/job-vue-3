@@ -1,0 +1,14 @@
+{
+  "main": {
+    "title": "Page d'accueil",
+    "description": "Écrivain français, l'un des fondateurs du réalisme en littérature. Honoré de Balzac (fr. Honoré de Balzac) a vécu de 1799 à 1850. Né dans la famille d'un paysan et fille d'un marchand de draps. Le nom original du futur écrivain était Balsa. Mais son père lui succède lorsqu'il vient à Paris en 1767 et commence sa carrière comme fonctionnaire. Et en 1798, il poursuit son service civil à Tours, où est né son fils. En 1830, Honoré lui-même ajouta la particule."
+  },
+  "btn": {
+    "home": "Maison",
+    "about": "À propos de",
+    "jobs": "Travaux",
+    "redirect": "Réorienter",
+    "goback": "Retourner",
+    "forward": "Vers l'avant"
+  }
+}

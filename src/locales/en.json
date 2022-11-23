@@ -1,0 +1,14 @@
+{
+  "main": {
+    "title": "Home page",
+    "description": "French writer, one of the founders of realism in literature. Honoré de Balzac (fr. Honoré de Balzac) lived from 1799 to 1850. Born in the family of a peasant and the daughter of a cloth merchant. The original name of the future writer was Balsa. But his father succeeded her when he came to Paris in 1767 and began his career as an official. And in 1798 he continued his civil service in Tours, where his son was born. In 1830, Honore himself added the particle  to the name, claiming to be of noble origin. Honore de Balzac first studied at the College of Vendôme, then in Tours and Paris. After three years of serving as a clerk in a judge's office, he convinced his parents to let him take up creativity."
+  },
+  "btn": {
+    "home": "Home",
+    "about": "About",
+    "jobs": "Jobs",
+    "redirect": "Redirect",
+    "goback": "Go Back",
+    "forward": "Forward"
+  }
+}
